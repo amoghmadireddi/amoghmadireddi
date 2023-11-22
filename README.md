@@ -2,18 +2,16 @@
 
 Michigan Student (Go Blue) interested in computer science and mathematics.  I am a Computer Science and Mathematics double major. Visit [website_url] to view my portfolio of apps, projects, courses, technical blogs, and more!
 
-Want to get in touch? Contact me at amoghmm@umich.edu or message me on LinkedIn @amoghmadireddi!
-
 - 🔭 I’m currently working on ML stock price predictor
 - 👯 I’m looking to collaborate on ML and NLP projects, especially GPT
-- 📫 How to reach me: amoghmm@umich.edu or LinkedIn @amoghmadireddi
+- 📫 How to reach me: amoghmm@umich.edu or [LinkedIn](https://www.linkedin.com/in/amoghmadireddi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lived in more than 10 cities!
 <!--
 **amoghmadireddi/amoghmadireddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+///Want to get in touch? Contact me at amoghmm@umich.edu or message me on LinkedIn @amoghmadireddi!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
