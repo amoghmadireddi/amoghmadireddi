@@ -1,9 +1,12 @@
-### Hi! I'm Amogh 👋
+### Hi! I'm Amogh Madireddi👋
 
-Michigan Student (Go Blue) interested in computer science and mathematics.  I am a Computer Science and Mathematics double major. Visit [website_url] to view my portfolio of apps, projects, courses, technical blogs, and more!
+Junior at the University of Michigan (Go Blue!) studying Computer Science and Mathematics. Visit [website_url] to view my portfolio of apps, projects, courses, technical blogs, and more!
 
 - 🔭 I’m currently working on ML stock price predictor
-- 👯 I’m looking to collaborate on ML and NLP projects, especially GPT
+- 🌱 I’m currently learning how to use GPT APIs to find creative solutions to problems
+- 👯 I’m looking to collaborate on ML and NLP projects
+- 🤔 I’m looking for help with finding new projects to get involved in
+- 💬 Ask me about my recent boba phase
 - 📫 How to reach me: amoghmm@umich.edu or [LinkedIn](https://www.linkedin.com/in/amoghmadireddi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lived in more than 10 cities!
