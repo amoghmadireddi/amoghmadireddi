@@ -2,7 +2,7 @@
 
 Michigan Student (Go Blue) interested in computer science and mathematics.  I am a Computer Science and Mathematics double major. Visit [website_url] to view my portfolio of apps, projects, courses, technical blogs, and more!
 
-Want to get in touch? Contact me at amoghmm@umich.edu or message me on LinkedIn!
+Want to get in touch? Contact me at amoghmm@umich.edu or message me on LinkedIn @amoghmadireddi!
 
 - 🔭 I’m currently working on ML stock price predictor
 - 👯 I’m looking to collaborate on ML and NLP projects, especially GPT
