@@ -1,6 +1,6 @@
 ### Hi! I'm Amogh Madireddi👋
 
-Junior at the University of 〽️ichigan (Go Blue!) studying Computer Science and Mathematics. Visit [website_url] to view my portfolio of apps, projects, courses, technical blogs, and more!
+Senior at the University of 〽️ichigan (Go Blue!) studying Computer Science and Mathematics. Visit [website_url] to view my portfolio of apps, projects, courses, technical blogs, and more!
 
 - 🔭 I’m currently working on ML stock price predictor
 - 🌱 I’m currently learning how to use GPT APIs to find creative solutions to problems
