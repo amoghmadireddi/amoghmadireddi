@@ -1,6 +1,8 @@
 ### Hi! I'm Amogh Madireddi👋
 
-Senior at the University of 〽️ichigan (Go Blue!) studying Computer Science and Mathematics. Visit [website_url] to view my portfolio of apps, projects, courses, technical blogs, and more!
+Senior at the University of 〽️ichigan (Go Blue!) studying Computer Science.
+<!--
+Visit [website_url] to view my portfolio of apps, projects, courses, technical blogs, and more!
 
 - 🔭 I’m currently working on ML stock price predictor
 - 🌱 I’m currently learning how to use GPT APIs to find creative solutions to problems
@@ -10,6 +12,7 @@ Senior at the University of 〽️ichigan (Go Blue!) studying Computer Science a
 - 📫 How to reach me: amoghmm@umich.edu or [LinkedIn](https://www.linkedin.com/in/amoghmadireddi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lived in more than 10 cities!
+-->
 <!--
 **amoghmadireddi/amoghmadireddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
