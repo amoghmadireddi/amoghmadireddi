@@ -2,7 +2,7 @@
 
 Senior at the University of 〽️ichigan (Go Blue!) studying Computer Science.
 
-Visit my [wesbite](https://amoghmadireddi.github.io/portfolio/) to view my portfolio of apps, projects, courses, technical blogs, and more!
+Visit my [website](https://amoghmadireddi.github.io/portfolio/) to view my portfolio of apps, projects, courses, technical blogs, and more!
 
 - 🔭 I’m currently working on ML stock price predictor
 - 🌱 I’m currently learning how to use GPT APIs to find creative solutions to problems
