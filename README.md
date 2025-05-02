@@ -9,7 +9,7 @@ Visit my [website](https://amoghmadireddi.github.io/portfolio/) to view my portf
 - 👯 I’m looking to collaborate on ML and systems projects
 - 🤔 I’m looking for help with finding new projects to get involved in
 - 💬 Ask me about my recent boba phase
-- 📫 How to reach me: amoghmm@umich.edu or [LinkedIn](https://www.linkedin.com/in/amoghmadireddi/)
+- 📫 How to reach me: amoghmadireddi@gmail.com or [LinkedIn](https://www.linkedin.com/in/amoghmadireddi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lived in more than 10 cities!
 
